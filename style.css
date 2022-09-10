@@ -1,0 +1,66 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    text-align: center;
+    margin: 30px;
+}
+
+.text {
+    text-align: center;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.line {
+    line-height: 3;
+}
+
+#container {
+    margin: 0 auto;
+    width: 85%;
+    height: 600px;
+}
+
+#green {
+    background: #94f8b4;
+    float: left;
+    width: 30%;
+    height: 90%;
+}
+
+#inner-container {
+    width: 70%;
+    height: 90%;
+    float: left;
+}
+
+#blue {
+    background: #74d7f3;
+    height: 12%;
+}
+
+#yellow {
+    background: #f6f894;
+    height: 88%;
+}
+
+#clear {
+    clear: both;
+}
+
+#orange {
+    background: #f8e2b0;
+    width: 83%;
+    height: 10%;
+    float: left;
+}
+
+#purple {
+    background: #f094f8;
+    width: 17%;
+    height: 10%;
+    float: right;
+}
